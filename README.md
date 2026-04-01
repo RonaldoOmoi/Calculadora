@@ -1,7 +1,14 @@
-Como executar:
+# Como executar:
 
-No terminal, use o comando ./calculadora.py para executar o script.
+- No terminal, acesse o repositorio do arquivo
 
-Sobre:
+- E use o comando para executar o script. (necessário ter o python2 ou python3 instalado)
+
+```python
+./calculadora.py 
+```   
+
+# Sobre:
 
 Este script calcula as operações básicas de adição, subtração, multiplicação e divisão, usando Python.
+
