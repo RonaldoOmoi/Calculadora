@@ -1,0 +1,11 @@
+# 1-Alteração das permissões do arquivo para torná-lo executável
+
+Chmod +x calculadora.sh
+
+# 2-Definição das permissões em: apenas o proprietário com permissão de escrita e os outros com permissão de leitura
+
+chmod 755 calculadora.sh
+
+# 3-Execução do script da calculadora.sh
+
+./calculadora.sh
