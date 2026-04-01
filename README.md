@@ -1,6 +1,6 @@
 Como executar:
 
-No terminal, use o comando ./calculadora.sh para executar o script.
+No terminal, use o comando ./calculadora.py para executar o script.
 
 Sobre:
 
